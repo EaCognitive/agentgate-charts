@@ -3,8 +3,7 @@
 # Some settings like the verified publisher flag or ignored packages won't
 # be applied until the repository is processed again. For Helm HTTP repos,
 # Artifact Hub detects changes when index.yaml changes.
-#
-# repositoryID: <artifact-hub-repository-id> # optional, enables verified publisher
+repositoryID: 4c0c505f-8f92-4584-bb99-ce7655858f88
 owners:
   - name: eacognitive
     email: erick@eacognitive.com
